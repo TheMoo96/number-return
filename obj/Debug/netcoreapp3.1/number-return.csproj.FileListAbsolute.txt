@@ -1,0 +1,13 @@
+C:\Users\leone\source\repos\number-return\bin\Debug\netcoreapp3.1\number-return.exe
+C:\Users\leone\source\repos\number-return\bin\Debug\netcoreapp3.1\number-return.deps.json
+C:\Users\leone\source\repos\number-return\bin\Debug\netcoreapp3.1\number-return.runtimeconfig.json
+C:\Users\leone\source\repos\number-return\bin\Debug\netcoreapp3.1\number-return.runtimeconfig.dev.json
+C:\Users\leone\source\repos\number-return\bin\Debug\netcoreapp3.1\number-return.dll
+C:\Users\leone\source\repos\number-return\bin\Debug\netcoreapp3.1\number-return.pdb
+C:\Users\leone\source\repos\number-return\obj\Debug\netcoreapp3.1\number-return.csprojAssemblyReference.cache
+C:\Users\leone\source\repos\number-return\obj\Debug\netcoreapp3.1\number-return.AssemblyInfoInputs.cache
+C:\Users\leone\source\repos\number-return\obj\Debug\netcoreapp3.1\number-return.AssemblyInfo.cs
+C:\Users\leone\source\repos\number-return\obj\Debug\netcoreapp3.1\number-return.csproj.CoreCompileInputs.cache
+C:\Users\leone\source\repos\number-return\obj\Debug\netcoreapp3.1\number-return.dll
+C:\Users\leone\source\repos\number-return\obj\Debug\netcoreapp3.1\number-return.pdb
+C:\Users\leone\source\repos\number-return\obj\Debug\netcoreapp3.1\number-return.genruntimeconfig.cache
